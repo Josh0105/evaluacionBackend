@@ -1,5 +1,5 @@
 
-package com.claro;
+package com.evaluacion.servidor.com.claro;
 
 import java.util.List;
 import javax.jws.WebMethod;

@@ -1,2 +1,2 @@
 @javax.xml.bind.annotation.XmlSchema(namespace = "http://claro.com/")
-package com.claro;
+package com.evaluacion.servidor.com.claro;
