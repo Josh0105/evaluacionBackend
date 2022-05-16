@@ -1,5 +1,5 @@
 
-package com.evaluacion.servidor.com.claro;
+package com.claro;
 
 import java.net.MalformedURLException;
 import java.net.URL;

@@ -1,5 +1,5 @@
 
-package com.evaluacion.servidor.com.claro;
+package com.claro;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
